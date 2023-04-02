@@ -141,6 +141,12 @@ organization) will then be hosted on GitHub under this license.
 .. NOTE::
    The submission workflow is described in detail `here <submissions.html>`__.
 
+*******************
+Development roadmap
+*******************
+
+.. image:: images/roadmap.png
+
 **********
 Leadership
 **********
